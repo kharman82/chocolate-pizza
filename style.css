@@ -1,7 +1,155 @@
-#fork-knife > h1, div {
-    display: inline;
+header {
+    display: inline-block;
+    width: 100%;
+    margin: 10px auto;
+}
+header div {
+    display: inline-block;
+
 }
 
-#icons {
-    float: right
+body {
+    width: 900px;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+#fork-knife {
+    width: 650px;
+}
+
+#fork-knife h1 {
+    display: inline-block;
+    width: 100%;
+}
+
+#fork-knife div {
+    display: inline-block;
+    margin-top: 15px;
+    
+}
+
+#fork-knife img {
+    float: left; 
+    margin: 15px;
+    
+}
+
+
+#icons {
+    display: inline-block;
+    width: 240px;
+}
+
+h1 {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: x-large;
+    width: 500px;
+    display: inline-block;
+
+}
+#slogan {
+    /* border: black 1px solid; */
+    width: 275px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 100;
+    
+}
+#titleContainer div {
+    display: inline-block;
+
+}
+#titleContainer {
+    display: inline-block;
+    width: 100%;
+}
+
+#chocolateWords {
+    width: 880px;
+    font-size: xx-large;
+    font: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ingredients {
+    width: 100%;
+    background-image: url("img/list-bg.png");
+    height: 300px;
+}
+#right {
+    display: inline-block;
+    width: 400;
+    height: 300px;
+    padding-top: 32px;
+    padding-left: 30px;
+    font-size: large;
+
+}
+#left {
+    display: inline-block;
+    width: 450px;
+    height: 300px;
+    padding-top: 32px;
+    padding-left: 40px;
+    font-size: large;
+}
+
+
+#rt {
+    display: inline-block;
+    width: 350;
+    height: 260px;
+}
+#lt {
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    
+}
+
+footer {
+    width: 900px;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vanessa {
+    float: left; 
+    margin-bottom: 15px;
+}
+
+#topFooter {
+    width: 600px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+#button {
+    display: inline-block;
+    width: 700px;
+    margin-left: 780px; 
+    padding-bottom: 25px;
+    
+}
+#footerLogo {
+    width: 900px;
+    margin-left: 440px;
+    
+  
+    
+}
+#footerLogo img {
+    width: 28px;
+}
+
+#footerWords {
+    text-align: center;
+    font-size: small;
+}
+
+
